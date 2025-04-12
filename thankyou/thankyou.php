@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Thank You</title>
+    <title>Thank You | Perfect Holiday Lights</title>
+    <meta name="Description" content="Thank you for your inquiry with Perfect Holiday Lights. One of our agents will contact you soon regarding your holiday lighting request.">
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="holiday lighting inquiry, Christmas lights quote, Perfect Holiday Lights, Southern California">
+    <meta name="author" content="Perfect Holiday Lights">
+    <meta name="robots" content="noindex, follow">
     <meta name="format-detection" content="telephone=no"/>
+    <meta property="og:title" content="Thank You | Perfect Holiday Lights">
+    <meta property="og:description" content="Thank you for your inquiry with Perfect Holiday Lights. One of our agents will contact you soon regarding your holiday lighting request.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.perfectholidaylights.com/thankyou/thankyou.php">
+    <meta property="og:image" content="https://www.perfectholidaylights.com/images/favicon.ico">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="../css/grid.css">
     <link rel="stylesheet" href="../css/style.css">
-
-
     <script src="js/jquery.js"></script>
     <script src="js/jquery-migrate-1.2.1.js"></script>
-
     <script src='js/device.min.js'></script>
 </head>
 <body>
